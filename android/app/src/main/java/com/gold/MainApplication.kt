@@ -1,4 +1,4 @@
-package com.gold
+package com.myGoldNames
 
 import android.app.Application
 import com.facebook.react.PackageList
